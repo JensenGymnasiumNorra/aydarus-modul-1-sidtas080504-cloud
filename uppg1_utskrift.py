@@ -7,3 +7,7 @@ Exempel på utskrift, det inom () ska ändras om variablerna ändras:
 """
 
 
+name = "Willy wonka"
+Hobby= "Walking" \
+
+print(f"{name}Is {Hobby}")
